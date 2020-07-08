@@ -16,4 +16,4 @@
 
 ## Download Apk from given below telegram Channel
 
-# ![Telegram Channel link](https://www.t.me/detroitdeveloper)
+# [Telegram Channel link](https://www.t.me/detroitdeveloper)
