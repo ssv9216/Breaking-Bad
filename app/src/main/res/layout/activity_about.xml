@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".About">
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/aaToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        app:title="About"
+        android:theme="@style/AppTheme.PopupOverlay"
+        app:titleTextColor="@color/colorAccent"
+        android:background="@color/colorPrimaryDark"
+        />
+    </com.google.android.material.appbar.AppBarLayout>
+    <Button
+        android:id="@+id/aaTelegram"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telegram Channel"
+        android:padding="10dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:textColor="@color/colorAccent"
+        android:theme="@style/Widget.AppCompat.Button"
+        android:background="#1867A6"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>
