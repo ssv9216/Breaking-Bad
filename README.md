@@ -1,10 +1,10 @@
 # Breaking-Bad 
 
 * This android Application created using Kotlin
-* www.breakingbadapi.com/api used
-* Volley used load json data to app
+* Api : www.breakingbadapi.com/api 
+* Volley used to load json from the api
 
-* This App is created only for educational purpose only
+* This App is created only for educational purpose
 ## ScreenShots of Application 
  
 * ### Characters
@@ -17,3 +17,4 @@
 ## Download Apk from given below telegram Channel
 
 # [Telegram Channel link](https://www.t.me/detroitdeveloper/4)
+### https://www.t.me/detroitdeveloper/4
