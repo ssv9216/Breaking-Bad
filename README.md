@@ -4,7 +4,6 @@
 * Api : www.breakingbadapi.com/api 
 * Volley used to load json from the api
 
-* This App is created only for educational purpose
 ## ScreenShots of Application 
  
 * ### Characters
